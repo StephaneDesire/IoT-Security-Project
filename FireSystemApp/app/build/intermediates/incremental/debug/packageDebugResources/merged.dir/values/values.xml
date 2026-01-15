@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#D32F2F</color>
+    <string name="app_name">Fire System</string>
+    <style name="Theme.FireSystemApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#D32F2F</item>
+        <item name="android:navigationBarColor">#D32F2F</item>
+    </style>
+</resources>
